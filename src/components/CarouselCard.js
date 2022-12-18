@@ -42,7 +42,7 @@ const CarouselCard = ({ location }) => {
   return (
     <Box
       className="carouselCard"
-      sx={{
+      sx={{m:1,mt:5,
         flexGrow: 1,
         position: 'relative',
       }}
